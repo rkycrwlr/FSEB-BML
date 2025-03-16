@@ -9,17 +9,6 @@ This repository implements **Function-Space Empirical Bayes Regularization (FS-E
 - **Adversarial Robustness**: Tools for generating adversarial examples and evaluating robustness.
 - **Visualization Tools**: Decision boundary plots and histograms for model analysis.
 
-## Directory Structure
-
-fseb-bml/
-├── fseb_2d.ipynb # FS-EB implementation on synthetic datasets
-├── fseb_mnist.ipynb # FS-EB implementation on MNIST dataset
-└── src/
-├── adversarial.py # Adversarial attack methods
-├── fseb.py # FS-EB regularization implementation
-├── model.py # Model architectures (MLP, CNN)
-└── utils.py # Utility functions (evaluation, visualization)
-
 ## Usage
 
 ### Synthetic Dataset
